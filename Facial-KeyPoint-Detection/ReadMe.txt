@@ -7,3 +7,5 @@
 	1. For taking predictions from model, run 'loadModel.py', which will give 'predictions.csv'.
 	2. 'GiveAnglesRatios.py' will give angles and ratios of any file given as input.
 	
+#######  Get 'model.h5' at : https://drive.google.com/open?id=1WB-L5NliJwMrXIZYI5PVZOHSVMF_utb-  ######
+	
